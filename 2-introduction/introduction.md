@@ -1,3 +1,7 @@
+Introduction
+============
+
+
 # Introduction
 
 > "These are revolutionary times. All over the globe men are revolting against
@@ -30,6 +34,10 @@ implementations are explored. In particular, blockchain technologies are
 considered as a means to address some of the issues and risks that have been
 shown to exist in other voting systems.  Ultimately, could a transactional,
 decentralized, secure, verifiable, and electronic voting system exist?
+
+## Current Voting Process
+INSERT OVERVIEW ON CURRENT VOTING PROCESS
+Estonia voting process
 
 
 ## Enter Blockchain
