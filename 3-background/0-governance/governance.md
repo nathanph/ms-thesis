@@ -6,6 +6,7 @@ three attributes: those in power, those whose elect, and the distribution of
 responsibility among those in power.
 
 Those in power:
+
 | Term                    | Definition                                                           |
 |-------------------------|----------------------------------------------------------------------|
 | Kraterocracy            | Rule by the strong, "might makes right".                             |
@@ -22,6 +23,7 @@ Those in power:
 https://en.wikipedia.org/wiki/Forms_of_government#By_elements_of_where_decision-making_power_is_held
 
 Those who elect:
+
 | Term                     | Definition                                                                                                               |
 |--------------------------|--------------------------------------------------------------------------------------------------------------------------|
 | Democracy                | Decisions are made by enfranchised citizens.                                                                             |
@@ -33,8 +35,4 @@ Those who elect:
 | Electocracy              | Decisions are entirely made by a government elected by citizens.                                                         |
 | Totalitarian democracy   | Decisions are made entirely by representatives elected by citizens.                                                      |
 
-
-| Power        | Electors | Distribution |
-|--------------|----------|--------------|
-| Kraterocracy | test     | test         |
 
