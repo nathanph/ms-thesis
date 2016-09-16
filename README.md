@@ -1,7 +1,7 @@
 Master's Thesis
 ===============
-Governance and Voting System Within Decentralized Organizations and Communities
--------------------------------------------------------------------------------
+Governance and Voting Systems Within Decentralized Organizations and Communities
+--------------------------------------------------------------------------------
 Author: Nathan Hernandez
 
 I'll be tracking my thesis here. I'm using Markdown for now so I don't waste

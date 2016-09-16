@@ -1,9 +1,5 @@
 Introduction
 ============
-
-
-# Introduction
-
 > "These are revolutionary times. All over the globe men are revolting against
 > old systems of exploitation and oppression, and out of the wombs of a frail
 > world, new systems of justice and equality are being born." -Martin Luther
