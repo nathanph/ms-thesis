@@ -7,8 +7,9 @@ are composed of three important pieces: ballot, choices, and tallying method.
 Choices
 -------
 A voting system's **choices**, or **options**, are the set of choices that a
-voting actor can select from. The choices available may be determined by primary
-vote, write-in, or some combination of the two. 
+voting actor can select from, they are the *who* or *what* being decided in a
+vote. The choices available may be determined by primary vote, polling,
+write-in, or some combination of techniques. 
 
 ### Representative Democracy
 In a **representative democracy**, choices are candidates who are meant to
@@ -38,6 +39,7 @@ A **ballot** is the means through which voting actors express their vote. The
 structure of the ballot influences exactly *how* the voter can express their
 vote for choice or choices.
 
+
 ### Plurality Voting
 A **plurality vote** is one where
 
@@ -53,3 +55,7 @@ A **ranked vote** is a
 Tallying Method
 ---------------
 
+Conclusion
+----------
+The choices affect *who/what* you vote for, the ballot affects *how* you express
+your vote, and the tallying method affects 

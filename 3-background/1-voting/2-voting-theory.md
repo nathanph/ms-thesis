@@ -30,4 +30,4 @@ impossibility theorem states:
 >   determine the group's preference.
 https://en.wikipedia.org/wiki/Arrow%27s_impossibility_theorem
 
-
+An following example illustrates Arrow's Impossibility Theorem. 
