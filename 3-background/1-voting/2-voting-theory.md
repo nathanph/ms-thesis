@@ -52,12 +52,13 @@ The following example illustrates Condorcet's paradox:
 > | B | 2 | 3 | 1 |
 > | C | 3 | 1 | 2 |
 >
-> A favors X > Y > Z.
-> B favors Z > X > Y.
-> C favors Y > Z > X.
+> A favors X > Y > Z. 
+> B favors Z > X > Y. 
+> C favors Y > Z > X. 
 >
 > It's clear from this that choice X is preferred to Y, choice Y is preferred to
-> Z, and choice Z is preferred to X; a paradoxical result (X > Y; Y > Z; Z > X).
+> Z, and choice Z is preferred to X; a paradoxical result (X > Y, and Y > Z, and
+> Z > X).
 
 
 

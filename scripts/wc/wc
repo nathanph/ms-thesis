@@ -1,0 +1,46 @@
+#!/usr/bin/env bash
+set -o errexit
+set -o pipefail
+set -o nounset
+# set -o xtrace
+
+# Set magic variables for current file & dir
+__dir="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+__file="${__dir}/$(basename "${BASH_SOURCE[0]}")"
+__base="$(basename ${__file} .sh)"
+__root="$(cd "$(dirname "${__dir}")" && pwd)" # <-- change this as it depends on your app
+
+arg1="${1:-}"
+
+################################################################################
+# START OF THESIS WORD COUNT SCRIPT
+################################################################################
+totalWords=0
+
+printf "|%20s|%8s|%8s|\n" "chapter" "words" "pages"
+printf "%s\n" $(printf "|%20s|%8s|%8s|" | sed "s/ /-/g")
+
+for dir in ./*/
+do
+    dir=${dir%*/}
+    dir=${dir##*/}
+
+    if [[ "$dir" == "scripts" ]]; then
+        continue
+    fi
+
+    wc=$(find "$dir" -name '*.md' -not -path "scripts/*/*" | xargs wc -w | sed 's/^ *//;s/ *$//')
+
+    # words=$(echo "$wc" | tail -1 | cut -d ' ' -f 2)
+    words=$(echo "$wc" | tail -1 | cut -d ' ' -f 1)
+    pages=$((words/250))
+    totalWords=$((words+totalWords))
+
+    printf "|%20s|%8s|%8s|\n" "$dir" "$words" "$pages"
+    # printf "Total Words: %i\n" "$words"
+    # printf "Total Pages: %i\n" "$pages"
+done
+
+
+printf "|%20s|%8s|%8s|\n" "total" "$totalWords" $((totalWords/250))
+

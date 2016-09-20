@@ -1,8 +1,8 @@
 Governance
 ==========
 A **government** is the means through which a community is managed. Governments
-are might be best grouped by three attributes: those in power, those whose
-elect, and the distribution of responsibility among those in power.
+might be best grouped by three attributes: those in power, those whose elect,
+and the distribution of responsibility among those in power.
 
 Those in power:
 
