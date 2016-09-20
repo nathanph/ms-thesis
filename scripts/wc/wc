@@ -18,7 +18,7 @@ arg1="${1:-}"
 totalWords=0
 
 printf "|%20s|%8s|%8s|\n" "chapter" "words" "pages"
-printf "%s\n" $(printf "|%20s|%8s|%8s|" | sed "s/ /-/g")
+printf "%s\n" $(printf "|%20s|%7s:|%7s:|" | sed "s/ /-/g")
 
 for dir in ./*/
 do

@@ -9,7 +9,7 @@ time formatting text instead of writing it. Eventually I'll create a TeX
 equivalent.
 
 |             chapter|   words|   pages|
-|--------------------|--------|--------|
+|--------------------|-------:|-------:|
 |             0-title|       0|       0|
 |          1-abstract|       0|       0|
 |      2-introduction|     641|       2|
