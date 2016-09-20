@@ -7,13 +7,13 @@ are composed of three important pieces: ballot, choices, and tallying method.
 Choices
 -------
 A voting system's **choices**, or **options**, are the set of choices that a
-voting actor can select from, they are the *who* or *what* being decided in a
+voting actor can select from; they are the *who* or *what* being decided in a
 vote. The choices available may be determined by primary vote, polling,
 write-in, or some combination of techniques. 
 
 ### Representative Democracy
 In a **representative democracy**, choices are candidates who are meant to
-represent their constitutes. A **republic** is an example of a representative
+represent their constituents. A **republic** is an example of a representative
 democracy.
 
 #### Indirect Election
@@ -37,8 +37,10 @@ Ballot
 ------
 A **ballot** is the means through which voting actors express their vote. The
 structure of the ballot influences exactly *how* the voter can express their
-vote for choice or choices.
-
+preferences for a choice or choices. Ballots, in some texts, are regarded to as
+a *process* of voting; here we use it to describe the medium through which a
+voting actor marks their choice (e.g., paper, punch card, or electronic
+machine), and the rules regarding how they can mark said medium.
 
 ### Plurality Voting
 A **plurality vote** is one where

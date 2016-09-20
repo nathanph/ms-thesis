@@ -30,4 +30,34 @@ impossibility theorem states:
 >   determine the group's preference.
 https://en.wikipedia.org/wiki/Arrow%27s_impossibility_theorem
 
-An following example illustrates Arrow's Impossibility Theorem. 
+The following example illustrates Arrow's impossibility theorem:
+
+
+
+Condorcet's Paradox
+-------------------
+Condorcet's paradox is a paradox which demonstrates that the collective
+preferences of voting actors can be cyclical (non-transitive), despite the
+individual preferences of the voting actor's choices being non-cyclical.
+
+The following example illustrates Condorcet's paradox:
+
+> Suppose we have 3 voting actors: A, B, and C voting for choices X, Y, and Z.
+> They rank their votes sequentially from 1 to 3; lower numbers indicating a
+> more favorable choice.
+>
+> |   | X | Y | Z |
+> |---|---|---|---|
+> | A | 1 | 2 | 3 |
+> | B | 2 | 3 | 1 |
+> | C | 3 | 1 | 2 |
+>
+> A favors X > Y > Z.
+> B favors Z > X > Y.
+> C favors Y > Z > X.
+>
+> It's clear from this that choice X is preferred to Y, choice Y is preferred to
+> Z, and choice Z is preferred to X; a paradoxical result (X > Y; Y > Z; Z > X).
+
+
+
