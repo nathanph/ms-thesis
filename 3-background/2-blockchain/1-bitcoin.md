@@ -93,11 +93,32 @@ verification of the existence of a hash in the tree in log(N) time.
 
 
 ### Proof-of-Work
+The bitcoin protocol uses a proof-of-work algorithm, similar to hashcash, that
+Satoshi Nakamoto proposed. The goal of the proof-of-work algorithm is to create
+a problem that is easy to verify for correctness but difficult to solve for the
+answer (read: NP-complete).
+
+The proof-of-work algorithm provides a means for mining nodes to be
+pseudorandomly selected to build a block of transactions. The probability that a
+miner will be selected is directly tied to the amount of *work* a miner does. 
+
+#### Network
+In actuality, miners aren't "selected" to build a block, so much as have a
+chance of building a correct block at a probability of
+(miner_hashrate/network_hashrate). 
+
+If a miner finds a correct solution it will propagate its solution into the
+network. Once other nodes have verified that the solution is correct they will
+accept that block as correct, append it to their chain, and reward the miner
+with a coinbase reward, a sum of bitcoin.
 
 #### Algorithm
-SHA-256
+idea SHA-256
+
 #### Difficulty
+
 #### Nonce
+
 #### Security
 
 
