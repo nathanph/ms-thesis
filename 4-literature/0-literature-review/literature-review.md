@@ -52,8 +52,6 @@ Despite having had thousands of years to improve on our election systems we
 continue to see contentious election results both locally and abroad. What
 follows are some of the more egregious and contentious election results.
 
-
-
 ### American Elections
 
 #### Bush vs Gore (2000 - United States)
@@ -71,6 +69,30 @@ follows are some of the more egregious and contentious election results.
 
 End-to-end Verifiable Voting
 ----------------------------
+Recall that an E2E-V (end-to-end verifiable) voting system provides the
+following features for voters:
+
+- check that the system recorded their votes correctly,
+- check that the system included their votes in the final tally, and
+- count the recorded votes and double-check the announced outcome of the
+  election.
+
+What follows are examples of E2E-V that exist currently.
+
+### Demos
+
+### Helios
+
+### Norwegian System
+
+### Remotegrity
+
+### RIES
+
+### Wombat
+
+### vVote
+
 
 
 Internet Voting
