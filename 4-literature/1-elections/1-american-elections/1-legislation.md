@@ -94,6 +94,13 @@ equipment, documentation, and testing requirements of voting machines.
 > documentation requirements, and test evaluation criteria for the national
 > certification of voting systems
 
+HAVA also established provisional ballots for states that don't allow same-day
+registration. Provisional ballots allow voters to cast a ballot on election day
+if the voter feels they're entitled to vote but are not listed as being
+registered. The ballot is counted after the voter's eligibility has been
+verified with the goal being that no voter is turned away who should have
+otherwise been able to vote.
+
 Military and Overseas Voter Empowerment Act
 -------------------------------------------
 The **Military and Overseas Voter Empowerment Act (MOVE)**, passed in 2009,
@@ -104,3 +111,8 @@ send absentee ballots no later that 45 days prior to election day. MOVE goes
 further by requiring that all registration material and blank ballots be
 available electronically as well as removes requirements regarding notarization
 on voting applications and ballots.
+
+
+Voter Empowerment Act
+---------------------
+2013
