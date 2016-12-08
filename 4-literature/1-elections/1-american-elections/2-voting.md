@@ -18,23 +18,18 @@ election day, by 2000 16% percent of votes for president were cast early, and by
 2012 the number of votes casted early had risen to at least 31%.
 
 ### Arguments
-There are many arguments for and against early voting. Proponents of early
-voting would argue that early voting makes the voting process more convenient
-for citizens, thus increasing voter turnout. Voters would have more flexibility
-to work around children, jobs, avoid long lines on election day, etc.
+Proponents of early voting would argue that early voting makes the voting
+process more convenient for citizens, thus increasing voter turnout. Voters
+would have more flexibility to work around children, jobs, doctor's
+appointments, out of state trips, as well as be able to avoid long lines on
+election day.
 
-Critics would argue otherwise.
+Critics argue that those concerns are less important when compared to the risks
+it presents.
 
 > Citizens should vote with a common base of information about candidates. If
 > they vote over a period of weeks before Election Day, they vote based on the
 > knowledge available on a scattering of different dates.
-
-> Growing use of absentee voting has turned this area of voting into the most
-> likely opportunity for election fraud now encountered by law enforcement
-> officials. These cases are especially difficult to prosecute, since the misuse
-> of a voter’s ballot or the pressure on voters occurs away from the polling
-> place or any other outside scrutiny. These opportunities for abuse should be
-> contained, not enlarged.
 
 ### State Breakdown
 34 states and the District of Columbia allow any qualified voter to vote early
@@ -76,20 +71,32 @@ without excuse or justification:
 34. Wisconsin
 35. Wyoming
 
+
+3 states are remote/early voting exclusively (by mail):
+
+1. Colorado
+2. Oregon
+3. Washington
+
 Remote Voting
 -------------
 **Remote voting**, in contrast to early voting, is any form of voting where
 ballots are not marked and cast at an official polling place. Remote voting is
-also known as **absentee voting**. The medium through which an absentee ballot
-is required to be transmitted to election officials depends on the state.
+also known as **absentee voting**. The medium through which a marked absentee
+ballot is returned to election officials depends on the state.
 
+### Arguments
 Remote voting offers flexibility above and beyond early voting. Remote voting
 allows voters to vote from the comfort of their own homes, overseas, and even
 from space. However, there are risks associated with remote voting:
 voter intimidation, vote buying, vote manipulation, etc.
 
-### Arguments
-
+> Growing use of absentee voting has turned this area of voting into the most
+> likely opportunity for election fraud now encountered by law enforcement
+> officials. These cases are especially difficult to prosecute, since the misuse
+> of a voter’s ballot or the pressure on voters occurs away from the polling
+> place or any other outside scrutiny. These opportunities for abuse should be
+> contained, not enlarged.
 
 ### State Breakdown
 27 states and the District of Columbia permit any qualified voter to vote
@@ -149,7 +156,7 @@ absentee, without offering an excuse, via postal service:
 20. West Virginia
 
 
-3 states are remote voting exclusively:
+3 states are remote/early voting exclusively (by mail):
 
 1. Colorado
 2. Oregon
@@ -158,17 +165,27 @@ absentee, without offering an excuse, via postal service:
 Electronic Voting
 -----------------
 **Electronic voting (e-voting)** is the use of electronic systems to cast and/or
-count votes. The promise of electronic voting was that it would be a faster,
-more transparent, secure, and accurate form of voting. Unfortunately the
-promises of electronic voting fell flat several times. Security researchers
-repeatedly demonstrated methods of attacking various e-voting machines to
-manipulate votes casted or the tallying process.
+count votes. Electronic voting can be split into two main categories **Direct
+Recording Electronic (DRE)** voting machines and **optical scan voting
+systems**. A DRE machine records votes electronically in memory. An optical scan
+voting system reads ballots using scanning technology, much like Scantrons in
+the academic world.
 
-**Direct Recording Electronic (DRE)**
 
-**Verifiable Voter Paper Audit Trail (VVPAT)**
+### Arguments
+The promise of electronic voting is that it would be a faster, more transparent,
+secure, and accurate form of voting. Other benefits would include greater ballot
+language support, increased support and independence for handicapped people,
+less printing costs, and the ability to entirely prevent spoiled ballots.
 
-### Criticisms
+Unfortunately the promises of electronic voting have fallen short several times.
+Security researchers have repeatedly demonstrated methods of attacking various
+e-voting machines to manipulate votes casted or the tallying process itself. As
+a result most states no longer offer e-voting without a **Verifiable Voter Paper
+Audit Trail (VVPAT)**.
+
+Proponents and vendors of electronic voting would claim that their systems are
+rigorously tested, but security experts argue otherwise.
 
 > Election law in most states requires that all voting systems—whether
 > electronic or not—be qualified by an authorized federally licensed laboratory
@@ -196,13 +213,7 @@ manipulate votes casted or the tallying process.
 > effort was put into the search. It is much easier to hide a needle in a
 > haystack than to find it.
 
-> there are some things that we know about how ITAs have evaluated computerized
-> touch screen machines (DREs), and there are other things that we can deduce
-> from some glaring failures in the DREs that were not detected by the ITAs. It
-> is reasonable to assume that the shortcomings of ITAs with respect to DREs
-> will carry over to their certification of Internet voting.
-
-### Attacks
+### Demonstrated Attacks
 
 #### Diebold AccuVote-TS
 
@@ -216,8 +227,9 @@ transfered over a network, this includes transfer via fax, email, or web
 application (fax being included because of the widespread proliferation and
 usage of Internet-based fax machines).
 
-There have been many attempts to bring about online voting in the US.
-
+There have been many attempts to bring about online voting in the US and abroad.
+Over $100 million in federal funding and decades of research and development has
+been spent on internet voting systems.
 
 > In 2000 there were several other experiments with Internet voting in U.S.
 > public elections. In some cases the votes counted officially; in others they
@@ -228,7 +240,56 @@ There have been many attempts to bring about online voting in the US.
 > over the Internet that summer, as were various nonbinding Internet voting
 > experiments in some counties of Washington, California, Arizona and elsewhere.
 
-### Attacks
+### Arguments
+Internet voting would provide all of the benefits of early, remote, and
+electronic voting while also inheriting all of their risks and some. The major
+additional risk is that Internet voting exposes the entire system to remote
+attack from anywhere in the world and the possibility for large-scale attacks.
+
+The conclusion of research initiatives and academic research is that Internet
+voting is fundamentally impossible to accomplish while maintaining voter
+privacy, audit trails, and preventing large scale attacks.
+
+> it is currently not possible to ensure the security, privacy, auditability and
+> integrity of ballots cast over the Internet.
+>
+> ...
+>
+> federal researchers determined that secure online voting is not currently
+> feasible
+>
+> ...
+>
+> The conclusive evidence that online voting cannot yet be done securely led the
+> federal government to abandon its effort to develop a secure online voting
+> system for the military in 2014.
+
+
+> It is reasonable to assume that the shortcomings of ITAs with respect to DREs
+> will carry over to their certification of Internet voting.
+
+"A comment on the May 2007 DoD report on Voting Technologies for UOCAVA Citizens"
+made the following arguments against voting systems:
+
+* Paperless (non-VVPAT) voting systems have been widely criticized: closed
+  source software, insufficient scruity, insider attack potential, and no VVPAT.
+* Cyber attack potential: insider attacks, denial of service attacks, spoofing,
+  automated vote buying, viral attacks, etc.
+* Attacks could occur at a large-scale and launched by individual, corporate, or
+  state actors that may lie outside the reach of US law. Attacks could result in
+  widespread or selective voter disenfranchisement, vote buying/selling, vote
+  switching, etc. These attacks are capable of being perpetrated without
+  detection.
+* These vulnerabilities cannot be eliminated without a wholesale redesign and
+  replacement of both the internet and PC.
+* Seemingly successful Internet voting systems may appear to work flawlessly,
+  promoting expansion of an insecure system.
+* Not detecting a successful attack does not mean that one has not occurred.
+* Because the threat of large-scale cyber attacks is so great, "we recommend
+  against any Internet voting until both the Internet and the world's home
+  computer infrastructure have been fundamentally redesigned."
+
+### Demonstrated Attacks
 
 #### Voting Over the Internet
 The **Voting Over the Interet (VOI)** system
