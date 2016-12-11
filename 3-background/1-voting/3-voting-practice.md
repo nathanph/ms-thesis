@@ -87,6 +87,20 @@ an open ballot would be more appropriate.
 
 #### Electronic Machines
 
+> These universal democratic principles can be summarized as a list of
+> fundamental requirements, or 'six commandments', for electronic voting
+> systems[citation needed]:
+>
+> 1. Keep each voter's choice an inviolable secret.
+> 2. Allow each eligible voter to vote only once, and only for those offices for
+>    which he/she is authorized to cast a vote.
+> 3. Do not permit tampering with the voting systems operations, nor allow
+>    voters to sell their votes.
+> 4. Report all votes accurately
+> 5. The voting system shall remain operable throughout each election.
+> 6. Keep an audit trail to detect any breach of [2] and [4] but without
+>    violating [1].
+
 ####
 
 ### Tallying Method
