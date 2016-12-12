@@ -9,11 +9,13 @@ time formatting text instead of writing it. Eventually I'll create a TeX
 equivalent.
 
 |             chapter|   words|   pages|
+
+|             chapter|   words|   pages|
 |--------------------|-------:|-------:|
 |             0-title|       0|       0|
 |          1-abstract|       0|       0|
 |      2-introduction|     641|       2|
-|        3-background|    3266|      13|
+|        3-background|    3268|      13|
 |        4-literature|    6858|      27|
 |           5-methods|       0|       0|
 |           6-results|       0|       0|
@@ -21,5 +23,6 @@ equivalent.
 |        8-conclusion|       0|       0|
 |            appendix|      23|       0|
 |        bibliography|       0|       0|
-|               total|   10788|      43|
+|              output|       0|       0|
+|               total|   10790|      43|
 

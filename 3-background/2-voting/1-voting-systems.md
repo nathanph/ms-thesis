@@ -9,7 +9,7 @@ Choices
 A voting system's **choices**, or **options**, are the set of choices that a
 voting actor can select from; they are the *who* or *what* being decided in a
 vote. The choices available may be determined by primary vote, polling,
-write-in, or some combination of techniques. 
+write-in, or some combination of techniques.
 
 ### Representative Democracy
 In a **representative democracy**, choices are candidates who are meant to
@@ -45,10 +45,10 @@ machine), and the rules regarding how they can mark said medium.
 ### Plurality Voting
 A **plurality vote** is one where
 
-### 
+###
 
 ### Ranked Voting
-A **ranked vote** is a 
+A **ranked vote** is a
 
 ### Unweighted votes
 
@@ -60,4 +60,4 @@ Tallying Method
 Conclusion
 ----------
 The choices affect *who/what* you vote for, the ballot affects *how* you express
-your vote, and the tallying method affects 
+your vote, and the tallying method affects
