@@ -14,12 +14,12 @@ equivalent.
 |          1-abstract|       0|       0|
 |      2-introduction|     641|       2|
 |        3-background|    3266|      13|
-|        4-literature|    5912|      23|
+|        4-literature|    6671|      26|
 |           5-methods|       0|       0|
 |           6-results|       0|       0|
 |        7-discussion|       0|       0|
 |        8-conclusion|       0|       0|
 |            appendix|      23|       0|
 |        bibliography|       0|       0|
-|               total|    9842|      39|
+|               total|   10601|      42|
 
