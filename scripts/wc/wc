@@ -28,6 +28,9 @@ do
     if [[ "$dir" == "scripts" ]]; then
         continue
     fi
+    if [[ "$dir" == "output" ]]; then
+        continue
+    fi
 
     wc=$(find "$dir" -name '*.md' -not -path "scripts/*/*" | xargs wc -w | sed 's/^ *//;s/ *$//')
 

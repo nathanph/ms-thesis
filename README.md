@@ -9,8 +9,6 @@ time formatting text instead of writing it. Eventually I'll create a TeX
 equivalent.
 
 |             chapter|   words|   pages|
-
-|             chapter|   words|   pages|
 |--------------------|-------:|-------:|
 |             0-title|       0|       0|
 |          1-abstract|       0|       0|
@@ -23,6 +21,5 @@ equivalent.
 |        8-conclusion|       0|       0|
 |            appendix|      23|       0|
 |        bibliography|       0|       0|
-|              output|       0|       0|
 |               total|   10790|      43|
 
