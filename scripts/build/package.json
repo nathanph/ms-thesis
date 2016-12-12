@@ -1,0 +1,28 @@
+{
+  "name": "build",
+  "version": "1.0.0",
+  "description": "A tool to cat nested markdown files.",
+  "author": "Nathan Hernandez",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "files": [
+    "lib/"
+  ],
+  "scripts": {
+    "watch": "tsc --watch",
+    "start": "node lib/index.js"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "globby": "^6.1.0",
+    "lodash": "^4.17.2",
+    "marked": "^0.3.6",
+    "to-markdown": "^3.0.3"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.43",
+    "@types/marked": "^0.0.28",
+    "@types/node": "^0.0.2"
+  }
+}
