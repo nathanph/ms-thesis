@@ -116,7 +116,9 @@ async function main () {
     }
 
     renderer.blockquote = (quote) => {
-        return '\n'
+        return '\\begin{displayquote}' + '\n' +
+               quote +
+               '\\end{displayquote}' + '\n\n'
     }
 
     renderer.paragraph = (text) => {
@@ -213,6 +215,15 @@ async function main () {
 % Packages %
 %%%%%%%%%%%%
 \\usepackage{hyperref}
+\\usepackage{setspace}
+\\usepackage{csquotes}
+\\usepackage{gemoetry}
+
+%%%%%%%%%%%%%%%%%%%%%%
+% Package Formatting %
+%%%%%%%%%%%%%%%%%%%%%%
+% \\gemoetry{legalpaper, margin=1in, lmargin=1.5inch}
+\\doublespacing
 
 \\begin{document}
 `
