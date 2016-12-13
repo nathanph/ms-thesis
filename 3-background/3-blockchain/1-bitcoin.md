@@ -100,12 +100,12 @@ answer (read: NP-complete).
 
 The proof-of-work algorithm provides a means for mining nodes to be
 pseudorandomly selected to build a block of transactions. The probability that a
-miner will be selected is directly tied to the amount of *work* a miner does. 
+miner will be selected is directly tied to the amount of *work* a miner does.
 
 #### Network
 In actuality, miners aren't "selected" to build a block, so much as have a
 chance of building a correct block at a probability of
-(miner_hashrate/network_hashrate). 
+`(miner_hashrate/network_hashrate)`
 
 If a miner finds a correct solution it will propagate its solution into the
 network. Once other nodes have verified that the solution is correct they will

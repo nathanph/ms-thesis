@@ -166,6 +166,9 @@ async function main () {
 
 
     let fullThesis = `
+%%%%%%%%%%%%%%%%%%%%%%%
+% Setup level command %
+%%%%%%%%%%%%%%%%%%%%%%%
 \\documentclass[a4paper]{report}
 \\makeatletter
 \\newcommand\\level[1]{%
@@ -199,11 +202,20 @@ async function main () {
 \\makeatother
 \\setcounter{secnumdepth}{100}
 
+%%%%%%%%%%%%%%%%%%%%%
+% Fix double quotes %
+%%%%%%%%%%%%%%%%%%%%%
+\\usepackage [english]{babel}
+\\usepackage [autostyle, english = american]{csquotes}
+\\MakeOuterQuote{"}
+
+%%%%%%%%%%%%
+% Packages %
+%%%%%%%%%%%%
 \\usepackage{hyperref}
 
 \\begin{document}
 `
-
     fullThesis += marked.parser(thesis)
     fullThesis += '\\end{document}'
 
