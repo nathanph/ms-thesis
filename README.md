@@ -13,13 +13,13 @@ equivalent.
 |             0-title|       0|       0|
 |          1-abstract|       0|       0|
 |      2-introduction|     641|       2|
-|        3-background|    3268|      13|
-|        4-literature|    6858|      27|
+|        3-background|    3265|      13|
+|        4-literature|    6802|      27|
 |           5-methods|       0|       0|
 |           6-results|       0|       0|
 |        7-discussion|       0|       0|
 |        8-conclusion|       0|       0|
 |            appendix|      23|       0|
 |        bibliography|       0|       0|
-|               total|   10790|      43|
+|               total|   10731|      42|
 

@@ -46,67 +46,14 @@ elected leaders, and their democracy. Trustworthy democracy is an ambitious and
 worthy goal that every government should strive to realize.
 
 
-Contentious Elections
----------------------
-Despite having had thousands of years to improve on our election systems we
-continue to see contentious election results both locally and abroad. What
-follows are some of the more egregious and contentious election results.
-
-### American Elections
-
-#### Bush vs Gore (2000 - United States)
-
-
-#### Trump vs Clinton (2016 - United States)
-> "A 58 percent majority of Clinton supporters say they accept Trump’s election,
-> while 33 percent do not. Questions about Trump’s victory are passionate — 27
-> percent of Clinton supporters feel “strongly” he did not win legitimately."
-
-### Foreign Elections
-
-#### Gortari vs Cárdenas (1988 - Mexico)
-
-
-End-to-end Verifiable Voting
-----------------------------
-Recall that an E2E-V (end-to-end verifiable) voting system provides the
-following features for voters:
-
-- check that the system recorded their votes correctly,
-- check that the system included their votes in the final tally, and
-- count the recorded votes and double-check the announced outcome of the
-  election.
-
-What follows are examples of E2E-V that exist currently.
-
-### Demos
-
-### Helios
-
-### Norwegian System
-
-### Remotegrity
-
-### RIES
-
-### Wombat
-
-### vVote
 
 
 
+
+```
 Internet Voting
 ---------------
 There have been many attempts to bring online voting to the masses
-
-> "Aggressive early adoption of election technology must be tempered by a clear
-> understanding that voters’ trust in their elections is hard-won and easily
-> lost."
-
-
-
-
-
 
 
 Booth Voting
@@ -147,5 +94,5 @@ Blockchain Voting
 
 Summary
 -------
-
+```
 

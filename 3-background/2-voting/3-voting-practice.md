@@ -101,11 +101,7 @@ an open ballot would be more appropriate.
 > 6. Keep an audit trail to detect any breach of [2] and [4] but without
 >    violating [1].
 
-####
-
 ### Tallying Method
-
-###
 
 #### Voting
 There are four important components of any voting system: registration,

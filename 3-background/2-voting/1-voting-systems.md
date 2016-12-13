@@ -45,8 +45,6 @@ machine), and the rules regarding how they can mark said medium.
 ### Plurality Voting
 A **plurality vote** is one where
 
-###
-
 ### Ranked Voting
 A **ranked vote** is a
 
