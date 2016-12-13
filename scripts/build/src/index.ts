@@ -217,7 +217,7 @@ async function main () {
 \\usepackage{hyperref}
 \\usepackage{setspace}
 \\usepackage{csquotes}
-\\usepackage{gemoetry}
+% \\usepackage{gemoetry}
 
 %%%%%%%%%%%%%%%%%%%%%%
 % Package Formatting %
