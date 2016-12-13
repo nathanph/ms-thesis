@@ -23,7 +23,7 @@ $ cd scripts/build
 $ npm install
 $ npm run watch
 ```
-#### Building: Markdown -> Latex -> PDF
+#### Markdown -> Latex -> PDF
 I've done a silly amount of work to get working, maybe I'll publish this as a
 tool one day. Run these commands from the root of the project.
 ```

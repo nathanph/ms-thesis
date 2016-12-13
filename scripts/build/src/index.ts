@@ -56,9 +56,12 @@ async function main () {
         const content = file.content
         const lex = file.lex
 
+        // Count the numbers of times a '0-' appears in the path.
         const zeros = path.map(dir => dir.includes('0-') ? 1 : 0)
                           .reduce( (a,b) => a+b )
 
+        // Add the number of subdirectories deep we are to the heading depth
+      // (minus the number of 0s).
         const extraDepth = depth - zeros - 2
 
         const updatedLex = lex.map( markdown => {

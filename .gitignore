@@ -1,5 +1,6 @@
 output
 !output/.gitkeep
+!output/thesis.pdf
 
 node_modules
 scripts/build/lib
