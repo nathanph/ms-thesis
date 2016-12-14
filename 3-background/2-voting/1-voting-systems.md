@@ -31,8 +31,6 @@ that state will be electors aligned with the winning candidate.
 A **direct election**, in contrast to an indirect election, is a vote where a
 voting actor's votes are cast directly for a candidate.
 
-
-
 Ballot
 ------
 A **ballot** is the means through which voting actors express their vote. The
@@ -45,15 +43,47 @@ regarding how they can mark said medium.
 
 Tallying Method
 ---------------
+The tallying method is closely tied to how you're allowed to mark your ballot
+and affects how your marked ballot is ultimately counted in the final tally.
+
 ### Plurality Voting
-A **plurality vote** is one where
+A **plurality vote** system is one where
+
+> A plurality voting system is a voting system in which each voter is allowed to
+> vote for only one candidate, and the candidate who polls more votes than any
+> other candidate (a plurality) is elected.
+
+### Majority Voting
+A **majority vote** system is one where
 
 ### Ranked Voting
-A **ranked vote** is a
+A **ranked vote** system is one where
+> Preferential voting or rank voting describes certain voting systems in which
+> voters rank outcomes in a hierarchy on the ordinal scale (ordinal voting
+> systems). When choosing between more than two options, preferential voting
+> systems provide a number of advantages over first-past-the-post voting (also
+> called plurality voting). This does not mean that preferential voting is the
+> best system; Arrow's impossibility theorem proves that no preferential method
+> can simultaneously obtain all properties desirable in a voting system.[Mankiw
+> 1][1] There is likewise no consensus among academics or public servants as to
+> the best electoral system.
 
-### Unweighted votes
+#### Ordinal Voting
+An **ordinal vote** system is one where
+
+
+#### Cardinal Voting
+A **cardinal vote** system is one where
+
+##### Approval Voting
+An **approval vote** system is one where
+
+### Proxy Voting
+A **proxy vote** system is one where
 
 Conclusion
 ----------
 The choices affect *who/what* you vote for, the ballot affects *how* you express
-your vote, and the tallying method affects
+your vote, and the tallying method affects the way your expressed vote impacts
+the final results.
+

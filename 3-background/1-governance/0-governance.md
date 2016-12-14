@@ -29,6 +29,7 @@ How decisions are made:
 | Demarchy                 | Decisions are made by randomly selected citizens a pool of enfranchised citizens (sortition).                            |
 | Direct Democracy         | Decisions are made by citizens vote on policies directly.                                                                |
 | Representative democracy | Decisions are made by representatives elected by enfranchised citizens.                                                  |
+| Delegative democracy     | Decision making power is delegated to a proxy in a transitive fashion.  Direct democracy is optional for decisions.      |
 | Liberal democracy        | A form of representative democracy that attempts which operates under the ideals of liberalism.                          |
 | Social democracy         | A socio-economic democracy which supports economic and social intervention within the framework of a capitalist society. |
 | Electocracy              | Decisions are entirely made by a government elected by citizens.                                                         |

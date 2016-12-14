@@ -214,6 +214,8 @@ rigorously tested, but security experts argue otherwise.
 > haystack than to find it.
 
 ### Demonstrated Attacks
+The following is a review of electronic voting machines that research has shown
+to be susceptible to attack.
 
 #### Diebold AccuVote-TS
 
@@ -290,6 +292,8 @@ made the following arguments against voting systems:
   computer infrastructure have been fundamentally redesigned."
 
 ### Demonstrated Attacks
+The following is a review of Internet voting systems that research has shown to
+be susceptible to attack.
 
 #### Voting Over the Internet
 The **Voting Over the Interet (VOI)** system
@@ -305,14 +309,6 @@ American voters living overseas.
 
 #### D.C. Voting System
 
-
-Typically early voting
-
-20 states have
-
-31 states in America support Internet-based voting in one form or another.
-
-25 of these states
 
 Tables
 ------

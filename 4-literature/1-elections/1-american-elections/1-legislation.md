@@ -115,4 +115,7 @@ on voting applications and ballots.
 
 Voter Empowerment Act
 ---------------------
-2013
+The **Voter Empowerment Act (VEA)** is meant to improve antiquated voter
+registration, ensure access to ballots, preserve the integrity of the voting
+system, further prohibit deceptive practices, protect voting rights, and demand accountability from election administration.
+

@@ -236,6 +236,7 @@ async function main () {
 % \\usepackage{gemoetry}
 \\usepackage[export]{adjustbox}
 \\usepackage[T1]{fontenc}
+\\usepackage{longtable}
 
 %%%%%%%%%%%%%%%%%%%%%%
 % Package Formatting %

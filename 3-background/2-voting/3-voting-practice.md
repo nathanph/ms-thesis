@@ -53,9 +53,9 @@ The final step of the voting process is the **collection and processing**
 component. This step requires that the polling places aggregate and tally all of
 the votes to determine a final result. Records must be kept which would provide
 a means to audit and recount votes if necessary. In electronic machines the
-collection and tallying process would be done by reading \*. Mechanical machines
-\*. Paper ballots, perhaps the most difficult, require \*.
-
+collection and tallying process would be done by reading a memory. Mechanical
+machines via a mechanical tabulation device. Paper ballots, perhaps the most
+primitive, require either scanning technology or hand counting.
 
 System
 ------
@@ -106,14 +106,6 @@ an open ballot would be more appropriate.
 > 6. Keep an audit trail to detect any breach of [2] and [4] but without
 >    violating [1].
 
-### Tallying Method
-
-#### Voting
-There are four important components of any voting system: registration,
-authentication, vote casting, and vote counting.
-
-##### Vote Casting
-**Privacy** implemented via **secret ballot**.
 
 Risks
 -----
