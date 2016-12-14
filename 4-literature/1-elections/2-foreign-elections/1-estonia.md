@@ -1,5 +1,5 @@
 Estonia
--------
+=======
 Estonia began using Internet voting in 2005. By the 2015 Estonian parliamentary
 elections 30.5% of all voters voted over the Internet. Estonia maintains what
 are probably the most advanced national identification cards in the world.

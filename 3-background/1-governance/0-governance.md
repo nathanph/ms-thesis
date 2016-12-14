@@ -1,8 +1,8 @@
 Governance
 ==========
 A **government** is the means through which a community is managed. Governments
-might be best grouped by three attributes: those in power, those whose elect,
-and the distribution of responsibility among those in power.
+might be best grouped by three attributes: those in power, how decisions are
+made, and the distribution of responsibility among those in power.
 
 Those in power:
 
@@ -24,9 +24,6 @@ https://en.wikipedia.org/wiki/Forms_of_government#By_elements_of_where_decision-
 
 How decisions are made:
 
-
-Those who elect:
-
 | Term                     | Definition                                                                                                               |
 |--------------------------|--------------------------------------------------------------------------------------------------------------------------|
 | Demarchy                 | Decisions are made by randomly selected citizens a pool of enfranchised citizens (sortition).                            |
@@ -40,4 +37,8 @@ Those who elect:
 | Crowned republic         | A republic with a ceremonial monarchy.                                                                                   |
 | Absolute monarchy        | Rule by family.                                                                                                          |
 
+
+Distribution of power lies mostly along a single axis from democracy to
+autocracy. Between there usually exists some level of federation which
+governments operate under.
 

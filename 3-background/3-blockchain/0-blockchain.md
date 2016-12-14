@@ -1,5 +1,5 @@
 Blockchain Technology
----------------------
+=====================
 A blockchain is a distributed transactional database system that tracks
 transactions in ever-growing linked blocks. Blockchain technology has
 been used to create immutable (?) public ledgers for tracking currency, assets,
@@ -11,12 +11,4 @@ Problem in a distributed computing environment. It allows parties on an
 untrusted and unreliable network to build a trusted source of truth. A
 blockchain uses an algorithm to score different versions of history to reach
 consensus in the network.
-
-What it is.
-
-Why it exists.
-
-How it works.
-
-
 

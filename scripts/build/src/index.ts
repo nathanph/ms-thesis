@@ -8,6 +8,8 @@ const ignore = [ '!scripts/**',
                  '!output/**',
                  '!appendix/**',
                  '!bibliography/**',
+                 '!0-title',
+//                 '!1-abstract',
                  '!README.md' ]
 
 const read = [ '*',
@@ -143,12 +145,23 @@ async function main () {
     renderer.table = (header, body, flags) => {
         flags = flags.map( str => str.charAt(0) )
         const structure = '|' + flags.join('|') + '|'
+        const lineLengths = body.split('\n')
+                                .map( line => line.length )
+        const longestLine = Math.max(...lineLengths)
+        const adjustbox = (longestLine > 100) ? true : false
+        console.log(longestLine)
+        console.log(body.split('\n')[0])
+        const adjustboxStart = '\\begin{adjustbox}{width=1.2\\textwidth,center=\\textwidth}\n'
+        const adjustboxEnd = '\\end{adjustbox}'
 
-        return '\\begin{tabular}{' + structure + '}\n' +
+        return (adjustbox ? adjustboxStart : '') +
+               '\\begin{tabular}{' + structure + '}\n' +
                '\\hline\n' +
                header +
                body +
-               '\\end{tabular} \\\\\n\n'
+               '\\end{tabular}' +
+               (adjustbox ? adjustboxEnd : '') +
+               ' \\\\\n\n'
     }
 
     renderer.tablerow = (content) => {
@@ -221,6 +234,8 @@ async function main () {
 \\usepackage{setspace}
 \\usepackage{csquotes}
 % \\usepackage{gemoetry}
+\\usepackage[export]{adjustbox}
+\\usepackage[T1]{fontenc}
 
 %%%%%%%%%%%%%%%%%%%%%%
 % Package Formatting %

@@ -78,12 +78,17 @@ ballot that is cast in such a way that it wouldn't be possible to know who cast
 the ballot. Imagine, for example, if everyone's paper ballots were dropped into
 a sealed box while no one was watching.
 
+Voting booths are used ubiquitously across the world. A voting booth is
+typically considered to be a small room with curtains in place to protect a
+voter's privacy.
+
 While there are many benefits to secret ballots, secret ballots are not always
 necessary or good to have during a voting process.  For example, if a unanimous
 vote were required on a topic it might be helpful for individuals to make their
 opinions public to promote discussion. Another example would be if a
 representative were voting on a citizen's behalf, for the sake of transparency,
 an open ballot would be more appropriate.
+
 
 #### Electronic Machines
 
@@ -110,3 +115,17 @@ authentication, vote casting, and vote counting.
 ##### Vote Casting
 **Privacy** implemented via **secret ballot**.
 
+Risks
+-----
+There are a number of risks involved with an actual election:
+
+Election fraud:
+- machine rigging,
+- bribing officials,
+- etc.
+
+Voter fraud: 
+- vote buying, 
+- ballot stuffing, 
+- intimidation, 
+- etc.

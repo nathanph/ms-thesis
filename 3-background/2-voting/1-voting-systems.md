@@ -37,11 +37,14 @@ Ballot
 ------
 A **ballot** is the means through which voting actors express their vote. The
 structure of the ballot influences exactly *how* the voter can express their
-preferences for a choice or choices. Ballots, in some texts, are regarded to as
-a *process* of voting; here we use it to describe the medium through which a
-voting actor marks their choice (e.g., paper, punch card, or electronic
-machine), and the rules regarding how they can mark said medium.
+preferences for a choice or choices. This is directly influenced by the
+tallying method. Ballots, in some texts, are regarded to as a *process* of
+voting; here we use it to describe the medium through which a voting actor marks
+their choice (e.g., paper, punch card, or electronic machine), and the rules
+regarding how they can mark said medium.
 
+Tallying Method
+---------------
 ### Plurality Voting
 A **plurality vote** is one where
 
@@ -49,11 +52,6 @@ A **plurality vote** is one where
 A **ranked vote** is a
 
 ### Unweighted votes
-
-
-
-Tallying Method
----------------
 
 Conclusion
 ----------

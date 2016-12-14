@@ -321,57 +321,57 @@ Tables
 |:-----------------|:----------------:|:--------------------:|:---------------------------:|:-----------------:|
 |                  | Early Voting     | No-Excuse Absentee   | Absentee; Excuse Required   | All-Mail Voting   |
 | ---------------- | ---------------- | -------------------- | --------------------------- | ----------------- |
-| Alabama          |                  |                      |             ●               |                   |
-| Alaska           |        ●         |          ●           |                             |        (1)        |
-| Arizona          |        ●         |          ●           |                             |        (1)        |
-| Arkansas         |        ●         |                      |             ●               |        (1)        |
-| California       |        ●         |          ●           |                             |        (1)        |
-| Colorado         |                  |                      |                             |         ●         |
-| Connecticut      |                  |                      |             ●               |                   |
-| Delaware         |                  |                      |             ●               |                   |
-| D.C.             |        ●         |          ●           |                             |                   |
-| Florida          |        ●         |          ●           |                             |        (1)        |
-| Georgia          |        ●         |          ●           |                             |                   |
-| Hawaii           |        ●         |          ●           |                             |        (1)        |
-| Idaho            |       (2)        |          ●           |                             |        (1)        |
-| Illinois         |        ●         |          ●           |                             |                   |
-| Indiana          |       (2)        |                      |             ●               |                   |
-| Iowa             |       (2)        |          ●           |                             |                   |
-| Kansas           |        ●         |          ●           |                             |        (1)        |
-| Kentucky         |                  |                      |             ●               |                   |
-| Louisiana        |        ●         |                      |             ●               |                   |
-| Maine            |       (2)        |          ●           |                             |                   |
-| Maryland         |        ●         |          ●           |                             |        (1)        |
-| Massachusetts    |       (3)        |                      |             ●               |                   |
-| Michigan         |                  |                      |             ●               |                   |
-| Minnesota        |       (2)        |          ●           |                             |        (1)        |
-| Mississippi      |                  |                      |             ●               |                   |
-| Missouri         |                  |                      |             ●               |        (1)        |
-| Montana          |       (2)        |          ●           |                             |        (1)        |
-| Nebraska         |        ●         |          ●           |                             |        (1)        |
-| Nevada           |        ●         |          ●           |                             |        (1)        |
-| New Hampshire    |                  |                      |             ●               |                   |
-| New Jersey       |       (2)        |          ●           |                             |        (1)        |
-| New Mexico       |        ●         |          ●           |                             |        (1)        |
-| New York         |                  |                      |             ●               |                   |
-| North Carolina   |        ●         |          ●           |                             |                   |
-| North Dakota     |        ●         |          ●           |                             |        (1)        |
-| Ohio             |       (2)        |          ●           |                             |                   |
-| Oklahoma         |       (2)        |          ●           |                             |                   |
-| Oregon           |                  |                      |                             |         ●         |
-| Pennsylvania     |                  |                      |             ●               |                   |
-| Rhode Island     |                  |                      |             ●               |                   |
-| South Carolina   |                  |                      |             ●               |                   |
-| South Dakota     |       (2)        |          ●           |                             |                   |
-| Tennessee        |        ●         |                      |             ●               |                   |
-| Texas            |        ●         |                      |             ●               |                   |
-| Utah             |        ●         |          ●           |                             |                   |
-| Vermont          |       (2)        |          ●           |                             |                   |
-| Virginia         |                  |                      |             ●               |                   |
-| Washington       |                  |                      |                             |         ●         |
-| West Virginia    |        ●         |                      |             ●               |                   |
-| Wisconsin        |       (2)        |          ●           |                             |                   |
-| Wyoming          |       (2)        |          ●           |                             |                   |
+| Alabama          |                  |                      |             *               |                   |
+| Alaska           |        *         |          *           |                             |        (1)        |
+| Arizona          |        *         |          *           |                             |        (1)        |
+| Arkansas         |        *         |                      |             *               |        (1)        |
+| California       |        *         |          *           |                             |        (1)        |
+| Colorado         |                  |                      |                             |         *         |
+| Connecticut      |                  |                      |             *               |                   |
+| Delaware         |                  |                      |             *               |                   |
+| D.C.             |        *         |          *           |                             |                   |
+| Florida          |        *         |          *           |                             |        (1)        |
+| Georgia          |        *         |          *           |                             |                   |
+| Hawaii           |        *         |          *           |                             |        (1)        |
+| Idaho            |       (2)        |          *           |                             |        (1)        |
+| Illinois         |        *         |          *           |                             |                   |
+| Indiana          |       (2)        |                      |             *               |                   |
+| Iowa             |       (2)        |          *           |                             |                   |
+| Kansas           |        *         |          *           |                             |        (1)        |
+| Kentucky         |                  |                      |             *               |                   |
+| Louisiana        |        *         |                      |             *               |                   |
+| Maine            |       (2)        |          *           |                             |                   |
+| Maryland         |        *         |          *           |                             |        (1)        |
+| Massachusetts    |       (3)        |                      |             *               |                   |
+| Michigan         |                  |                      |             *               |                   |
+| Minnesota        |       (2)        |          *           |                             |        (1)        |
+| Mississippi      |                  |                      |             *               |                   |
+| Missouri         |                  |                      |             *               |        (1)        |
+| Montana          |       (2)        |          *           |                             |        (1)        |
+| Nebraska         |        *         |          *           |                             |        (1)        |
+| Nevada           |        *         |          *           |                             |        (1)        |
+| New Hampshire    |                  |                      |             *               |                   |
+| New Jersey       |       (2)        |          *           |                             |        (1)        |
+| New Mexico       |        *         |          *           |                             |        (1)        |
+| New York         |                  |                      |             *               |                   |
+| North Carolina   |        *         |          *           |                             |                   |
+| North Dakota     |        *         |          *           |                             |        (1)        |
+| Ohio             |       (2)        |          *           |                             |                   |
+| Oklahoma         |       (2)        |          *           |                             |                   |
+| Oregon           |                  |                      |                             |         *         |
+| Pennsylvania     |                  |                      |             *               |                   |
+| Rhode Island     |                  |                      |             *               |                   |
+| South Carolina   |                  |                      |             *               |                   |
+| South Dakota     |       (2)        |          *           |                             |                   |
+| Tennessee        |        *         |                      |             *               |                   |
+| Texas            |        *         |                      |             *               |                   |
+| Utah             |        *         |          *           |                             |                   |
+| Vermont          |       (2)        |          *           |                             |                   |
+| Virginia         |                  |                      |             *               |                   |
+| Washington       |                  |                      |                             |         *         |
+| West Virginia    |        *         |                      |             *               |                   |
+| Wisconsin        |       (2)        |          *           |                             |                   |
+| Wyoming          |       (2)        |          *           |                             |                   |
 | ---------------- | ---------------- | -------------------- | --------------------------- | ----------------- |
 | TOTAL            | 34 states + DC   | 27 states + DC       | 20 states                   | 3 states          |
 |------------------|------------------|----------------------|-----------------------------|-------------------|
