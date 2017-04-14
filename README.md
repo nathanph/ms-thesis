@@ -38,11 +38,12 @@ $ pdflatex -output-directory=output output/thesis.tex
 |      2-introduction|     287|       1|
 |        3-background|    3978|      15|
 |        4-literature|    6194|      24|
-|           5-methods|       0|       0|
+|           5-methods|    2226|       8|
 |           6-results|       0|       0|
 |        7-discussion|       0|       0|
 |        8-conclusion|       0|       0|
 |            appendix|      23|       0|
 |        bibliography|       0|       0|
-|               total|   10482|      41|
+|              graphs|       0|       0|
+|               total|   12708|      50|
 
